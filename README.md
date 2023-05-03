@@ -1,2 +1,2 @@
 # sales_dashboard
-my first sales dashboard with Power Bi, some basic stuff
+my first sales dashboard with Power Bi with sample dataset from Kaggle, some basic stuff
